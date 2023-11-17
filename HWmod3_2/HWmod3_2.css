@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Inter;
+    text-align: center;
+}
+.card{
+    width: 1146px;
+    height: 624px;
+    background: url(Картинки/Смартчасы.png);
+    padding-top: 100px;
+}
+.info{
+    color: #F5F5F7;
+    font-size: 18.047px;
+    font-weight: 400; 
+    letter-spacing: 0.336px;
+    margin: 9px 0 12px;
+}
+.buy{
+    color: #2997FF;
+    font-size: 16.734px;
+    letter-spacing: -0.374px;
+    text-decoration: none;
+}
